@@ -15,11 +15,10 @@
 	<properties>
 		<java.version>15</java.version>
 	</properties>
+
 	<dependencies>
-<!--		<dependency>-->
-<!--			<groupId>mysql</groupId>-->
-<!--			<artifactId>mysql-connector-java</artifactId>-->
-<!--		</dependency>-->
+
+
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
@@ -49,6 +48,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
 	</dependencies>
 
 	<build>
@@ -61,3 +61,4 @@
 	</build>
 
 </project>
+
