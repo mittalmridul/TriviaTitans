@@ -1,8 +1,8 @@
 # Trivia Titans
 
-This project, **Trivia Titans**, is a Quiz Application developed as part of the coursework for **Introduction to Java (CS9053)** for Fall 2024 at NYU Tandon School of Engineering. The application is built using **Spring Boot**, with a focus on integrating database connections and demonstrating multithreading concepts.
+This project, **Trivia Titans**, is a Quiz Application . The application is built using **Spring Boot**, with a focus on integrating database connections and demonstrating multithreading concepts.
 
-Developed By : Mridul Mittal, Utsav Sharma , Eshaan Raj Sharma 
+Developed By : Mridul Mittal
 ---
 
 ## Technologies Used
